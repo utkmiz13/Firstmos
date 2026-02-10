@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+int main(){
+    int a;
+    int b;
+    cout << "  enter  a number ";
+    cin>>a;
+    cout << " enter number b ";
+    cin >>b;
+    if (a >= b){
+        cout << " a is greater than b : "<< a <<endl;
+    } else {  
+        cout<< " a is less than b : "<< b <<endl;
+    }
+    return 0;
+}
