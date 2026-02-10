@@ -14,7 +14,7 @@ int main (){
 
     }
     if ( age >= 35){
-        cout <<" you are aligible for president "<<endl;
+        cout <<" contest or election "<<endl;
     }
     return 0;
 }
