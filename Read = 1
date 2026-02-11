@@ -1,0 +1,250 @@
+/*#include <bits/stdc++.h>
+using namespace std;
+int main()
+{
+   cout<<" hello world "<<endl;
+
+    return 0;
+}             boiler plate code*/
+
+
+
+
+
+
+ 
+ #include <bits/stdc++.h> //preprocessor directive
+using namespace std;  //
+int main()//starting point of execution 
+{
+   cout<<" Just Basic Things Just Read "<<endl;
+
+    return 0;
+}//end point of execution 
+
+
+/*" " = string 
+
+variable
+a is variable 
+b """""""""""
+c """""""""""
+d """""""""""
+a = 2;
+b = 3;
+c = 4;
+d = 5;
+
+where  a,b,c,d is identifiers 
+
+variable ke naam ko identifiers bolte hai 
+
+#Tip == always give logical identifiers name like age , date , cgpa restrict
+
+
+
+Data Type 
+
+1: integer (int) 4 bytes
+2: character (char) 1 byte 
+3: boolean (bool) 1 byte
+4: floating (float) True/false 4 byte 
+5: Double floating point (double) 8 bytes 
+
+
+
+we take input by the "cin>>input"
+
+constant 
+
+Variable that can not be changed 
+const int=25;
+
+******* "Operators"
+
+1: Arthmatic Operators 
+
+* Binary 
+
+Addition (+)
+subtraction (-)
+multiplication (*)
+divison (/)
+modulo (%)
+
+* Unary 
+
+
+Increment (++)
+Decrement (--)
+
+
+
+1: Post (a++) = Use & Then Update 
+2: pre (++a) = Update & Then Use
+
+
+
+2: Assignment Operator/Compound Assignment 
+
+ =  : a = 10
+ += : a =a+5 = a+5 
+ -= : a = a-5 = a-=2
+ *= :  a = a*5 = a*=2
+ /= :  a = a/5 = a/=2
+ 
+ 
+ 
+ 3:  Relational Operators 
+ 
+ >
+ >=
+ <
+ <=
+ == a = B
+ a! = a not B
+ 
+ 
+ 4:  Logical Operators
+ 
+ 
+ And (&&)
+ 
+ or (||)
+ 
+ not(!)
+ 
+ 
+ 
+ ### Conditional Statment 
+ 
+ 1:  if-else 
+           if (age >=18){
+               cout<<" you are adult "
+           }
+              else{
+                  cout<<" you are not adult "
+              }
+              
+              
+              
+    
+    
+# Switch Statment 
+
+
+
+
+ switch (day(Variable name )){
+     case 1: cout <<" monday ";
+     break;
+ 
+ 
+ case:2 cout<<" tuesday ";
+        break;
+        //. more cases
+        default : cout<< " invalid Day "<<endl;
+        }
+ 
+ 
+ 
+ 
+ ##### LOOPS 
+ 
+ 
+ 1: for loop
+ 2: while loop
+ 3: do-while loop
+ 
+ 
+ ******. for loop
+ 
+ for( initalisation; conditon; updation){
+     // do some work 
+ }
+ 
+ Example = for ( int num 1; num<=5; num++){
+     cout<< num <<endl;
+ }
+ 
+ 
+ ******** Infnite loop
+  Very Dangerous 
+  
+  
+  #Itereate ( Loop ko run krna )
+  #Iteration (jitni baar loop run karega utni baar itreation for example ek baar loop run kiya too ek baar itreation )
+  
+ 
+ 
+ 
+ 
+ ****** while-loop 
+ 
+ loop runs while conditon is true 
+ int count = 1;
+ while ( count<3){
+      count<<count;
+      count++;
+      
+      
+      
+*******  do-while-loop 
+
+      do{
+          // do some work 
+      } while ( condition );
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
