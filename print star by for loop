@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+int main (){
+    int n;
+
+        for(n=1 ; n<=4; n++){
+            cout<<"****"<<endl;
+        }
+
+
+
+
+
+
+    return 0;
+}
