@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+int main(){
+    int num =1;
+    for( num=1; num<=10; num++){
+        cout<<num<<endl;
+    }
+    cout<<"last value of num = "<<num<<endl;
+    return 0;
+}
