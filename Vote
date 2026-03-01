@@ -13,6 +13,7 @@ int main (){
     if (age>=18){
         cout<< " welcome "<<name<<" you are alloed for vote "<<endl;
 
+
     }else{
         cout << " soory " <<name<<" you are not allowed for vote "<<endl;
     }
